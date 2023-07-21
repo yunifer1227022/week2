@@ -91,6 +91,9 @@ li, a {
 .jumbotron .name .h1-text {
   text-align: right;
 }
+.jumbotron .name .h2-text {
+  color: #FFF;
+}
 
 .warper {
   background-image: url("https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/background-img.png?raw=true");
@@ -104,6 +107,7 @@ li, a {
 }
 .introduction .intro .intro-text {
   margin-bottom: 32px;
+  color: #FFF;
 }
 .introduction .pics img {
   margin-right: 24px;
@@ -225,6 +229,7 @@ li, a {
   background: #000;
 }
 .bg-b p {
+  color: #FFF;
   text-align: center;
   margin: 40px 0;
 }/*# sourceMappingURL=all.css.map */

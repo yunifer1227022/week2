@@ -85,6 +85,9 @@ $background:linear-gradient(180deg, #050014 0%, rgba(1, 2, 30, 0.89) 100%);
         .h1-text {
             text-align: right;
         }
+        .h2-text {
+            color:#FFF;
+        }
     }
 }
 // introduction 
@@ -101,6 +104,7 @@ $background:linear-gradient(180deg, #050014 0%, rgba(1, 2, 30, 0.89) 100%);
         }
         .intro-text{
             margin-bottom: 32px;
+            color:#FFF
         }
     }
     .pics {
@@ -230,6 +234,7 @@ $background:linear-gradient(180deg, #050014 0%, rgba(1, 2, 30, 0.89) 100%);
 .bg-b {
     background: #000;
     p {
+        color: #FFF;
         text-align: center;
         margin:40px 0;
     }
